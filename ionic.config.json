@@ -1,0 +1,8 @@
+{
+  "name": "ionic_notifications",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}
