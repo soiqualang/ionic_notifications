@@ -1,0 +1,2 @@
+# ionic_notifications
+ionic_notifications services template
